@@ -1,0 +1,11 @@
+C:\Users\USUARIO\source\repos\Racing\RacingBack\bin\Debug\net6.0\RacingBack.deps.json
+C:\Users\USUARIO\source\repos\Racing\RacingBack\bin\Debug\net6.0\RacingBack.dll
+C:\Users\USUARIO\source\repos\Racing\RacingBack\bin\Debug\net6.0\RacingBack.pdb
+C:\Users\USUARIO\source\repos\Racing\RacingBack\obj\Debug\net6.0\RacingBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\Racing\RacingBack\obj\Debug\net6.0\RacingBack.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Racing\RacingBack\obj\Debug\net6.0\RacingBack.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Racing\RacingBack\obj\Debug\net6.0\RacingBack.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Racing\RacingBack\obj\Debug\net6.0\RacingBack.dll
+C:\Users\USUARIO\source\repos\Racing\RacingBack\obj\Debug\net6.0\refint\RacingBack.dll
+C:\Users\USUARIO\source\repos\Racing\RacingBack\obj\Debug\net6.0\RacingBack.pdb
+C:\Users\USUARIO\source\repos\Racing\RacingBack\obj\Debug\net6.0\ref\RacingBack.dll
